@@ -1,0 +1,24 @@
+#Daniel Brookins
+#12/5/24
+#Strings
+
+#Initialize
+message = "computer science at Jones is the best?"
+
+#Functions
+#Main
+
+#Complete the following tasks using string methods
+#Task 1: Capitilize the first letter
+x = message.capitalize()
+print(x)
+#Task 2: Uppercase the sentence( Use all capital letters)
+x = message.upper()
+print(x)
+#Task 3: Replace the ? with an !
+x = message.replace("?","!")
+print(x)
+#Task 4: Find and print the position of the word jones in the string
+x = message.index("Jones")
+print(x)
+

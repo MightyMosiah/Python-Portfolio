@@ -1,0 +1,36 @@
+
+#Daniel Brookins
+#1/8/25
+#Parameters
+
+
+#Challenge 1
+#Area of a Rectangle
+#Activity: Write a function calculate_area(length, width)
+#that takes the length and width of a rectangle and prints the area.
+def calculate_area(length,width):
+        print(length*width)
+#Main
+calculate_area(100,50)
+
+
+#Challenge 2
+#Discount Calculator
+#Activity: Write a function that takes the original price and a discount percentage as parameters
+#and prints the discounted price.
+
+def discount_calc(price,discount):
+    print(price*(discount/price))
+
+discount_calc(100,20)
+
+#Challenge 3
+#Repeated Greeting
+#Activity: Write a function that takes a name and a times parameter.
+#The function should print a greeting with the name repeated the specified number of times using a loop.
+def hello(name,num):
+    for i in range(num):
+        print("Hello,"+ name)
+
+hello("Daniel",7)
+
