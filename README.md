@@ -4,7 +4,7 @@ This is a collection of the all the work I did for AP Computer Science at Jones 
 1.)Guessing Game.py: Python program that generates a random number between 1 and 10 and prompts the user to guess the number. The program should tell the user whether they guess correctly or incorrectly.
 
 
-2.)Secure login system:Python program that implements a secure login system. Users are able to enter their username and password, andthe system will verify the credentials. The username comparison is case-insensitive, while the password must match exactly.
+2.)Secure login system(1).text:Python program that implements a secure login system. Users are able to enter their username and password, andthe system will verify the credentials. The username comparison is case-insensitive, while the password must match exactly.
 
 
 3.)Rock,Paper, sisscors.py: Creates a simple Python program that allows the player to play the classic game of "Rock-Paper-Scissors" against the computer. The game involves selecting either rock, paper, or scissors and comparing the choices to determine the winner using if and elif statements. The program keeps track of the score and gives the player the option to play again.
