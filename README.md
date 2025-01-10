@@ -15,10 +15,10 @@ Scissors beats paper
 Paper beats rock
 
 
-4.) Simple calculator:  Simple calculator program that allows the user to perform basic mathematical operations.
+4.) Simple Calculator.py:  Simple calculator program that allows the user to perform basic mathematical operations.
 
 
-5.)Parameters Practice(1)text: Complete the 3 parameter challenges,
+5.)Parameters Practice(1).text: Complete the 3 parameter challenges,
 Area of a Rectangle:Write a function calculate_area(length, width)
 that takes the length and width of a rectangle and prints the area.
 
