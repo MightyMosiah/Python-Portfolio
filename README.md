@@ -9,11 +9,6 @@ Rock beats scissors
 Scissors beats paper
 Paper beats rock
 
-Make sure to keep the player playing until they want to quit using a while True loop.
-
-Display the score (e.g., Player: 3 / Computer: 6) after each round, updating it accordingly.
-
-Implement input validation to ensure the player enters a valid move (rock, paper, or scissors) and handle any invalid inputs.
 
 Parameters Practice(1)text: Complete the 3 parameter challenges,
 Area of a Rectangle:Write a function calculate_area(length, width)
