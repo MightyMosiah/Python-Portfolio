@@ -28,5 +28,5 @@ Function prints a greeting with the name repeated a specified number of times us
 
 6.) CREATE Task(1): AP computer science exam programs that prints a random video game based on the user input
 
-7.) Pokemon Project: Program allows player to input chocies to play Pokemon video game
+7.) Pokemon Project: Program allows player to play Pokemon video game
 
