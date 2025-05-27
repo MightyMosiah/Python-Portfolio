@@ -1,0 +1,36 @@
+#Daniel Brookins
+#1/24/25
+#Magic 8 Ball
+
+#initilize
+import random
+import time
+magic_list =["Yes","No","Yes Likely","Not Likely","Definintely","Maybe","Definintely Not","Mostly True","Not True","Not Sure Yet","High Probailtiy","Low Probability","50 percent change","Could Happen","Not Sure" ] #Magic 8 Ball Responses
+
+#Main
+print("Shake...")
+time.sleep(2)
+print("Shake...")
+time.sleep(2)
+print("Shake...")
+time.sleep(2)
+while True:
+
+      print("Welcome to Magic 8 ball")
+      question =input("Please ask the Magic 8 ball a yes or no question:")
+      if question.endswith("?"):
+            print(random.choice(magic_list))
+      else:
+            print("You need to enter a question with a question mark")
+
+
+
+
+      break
+
+
+    #Functions
+    #Main
+
+
+
