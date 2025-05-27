@@ -1,0 +1,34 @@
+#Daniel Brookins
+#1/8/25
+#Multiplication Quiz
+
+import random
+
+def Multiplication_Quiz():
+
+    score = 0
+    print("Welcome to Multiplication Quiz!")
+
+    for i in range(5):
+        num1= random.randint(1,10)
+        num2= random.randint(1,10)
+        print("What is" + str (num1) +"*"+ str (num2) +"?")
+
+        answer = int(input("Answer:"))
+
+
+
+        if answer== num1 * num2:
+                    print("Correct!")
+                    score=score+1
+                    print("Your score is now" + str (score))
+
+
+
+
+
+
+
+
+
+Multiplication_Quiz()

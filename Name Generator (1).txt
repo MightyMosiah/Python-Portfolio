@@ -1,0 +1,40 @@
+#Daniel Brookins
+#10/21/24
+#Name Generator Project
+def name_genrator():
+    print("Welcome to SuperHero Name Genrator")
+    print("Answer the Questions to find out your Superhero")
+    ans=input("Super(S) or Power(P)?")
+    if ans== "S":
+        ans= input("Smart(Smart) or Rich(Ricch)")
+        if ans=="Smart":
+            ans= input("Funny(Fun) or Green(G)")
+            if ans=="Fun":
+                print("your Super Hero is Spider Man")
+            else:
+                print("Your Super  Hero name is Hulk")
+
+        elif ans=="Ricch":
+            ans=input("Vibranium(V) or Intellegent(Intl)")
+            if ans== "Intl":
+                print("Your Super Hero is Iron Man")
+            else:
+                print("Your Super Hero is Black Panther")
+
+    else:
+        ans=input("Super Powers(SP) or America(A)")
+        if ans== "SP":
+            ans= input("Spy(S) or Bow and arrow(B)")
+            if ans== "S":
+                print("Your Super Hero is Black Widow")
+            else:
+                print("Your Super Hero is Hawkeye")
+
+        else:
+            ans=input("Vibranium Shield(V) or Flying(Fly)")
+            if ans== "Fly":
+                print("Your Super Hero is Falcon")
+            else:
+                print("Your Super Hero is Captin America ")
+
+name_genrator()

@@ -1,0 +1,46 @@
+#Daniel Brookins
+#10/12/24
+#Conditional Problem Set
+
+#c=init
+#Functions
+
+#Print the largest of the 3 numbers
+def max_num(a,b,c):
+    #No input needed
+    #Process the data with conditional statements
+    if a>b and a>c:
+        print("a is the largest. the value of a is:" + str(a))
+
+
+def score_to_grade(score):
+    # No input needed
+    if score> 89:
+        print("A")
+    elif score >79:
+        print("B")
+    elif score > 69:
+        print("C")
+    elif score > 59:
+        print("D")
+    else:
+        print("F")
+
+#Main
+score_to_grade(50)
+
+#Comparison Operators
+#> Greater Than
+#< Less Than
+#== Equal to
+#> = Greater than or equal to
+#! = Not equal to
+
+
+ #Logical Operators
+ #and BOTH statements must be true
+ #or ONE of the statements must be true
+
+
+
+

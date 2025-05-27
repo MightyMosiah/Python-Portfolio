@@ -1,0 +1,16 @@
+#12/10/24
+#Daniel Brookins
+#Mablibs
+
+
+def madlib():
+    print("Welcome to the Madlib game!")
+    adjective1 = input("Enter an adjective:")
+    adjective2 = input("Enter an adjective:")
+    noun1 = input("Enter an noun:")
+    verb1 = input("Enter a verb (past tense):")
+    noun2 = input("Enter another noun:")
+    verb2 = input("Enter another verb(present tense):")
+
+    print("Once upon a time a " + noun1 + " was " + verb1 + " through the christmas village when he stumbled on a " + adjective2 + " " + noun2 + " " + verb2 + " " + " down a snow hill "  )
+madlib()
