@@ -26,4 +26,7 @@ that takes the length and width of a rectangle and prints the area.
 and prints the discounted price, and Repeated Greeting:Write a function that takes a name and a times parameter.
 Function prints a greeting with the name repeated a specified number of times using a loop, in VS Code.
 
+6.) CREATE Task(1): AP computer science exam programs that prints a random video game based on the user input
+
+7.) Pokemon Project: Program allows player to input chocies to play Pokemon video game
 
